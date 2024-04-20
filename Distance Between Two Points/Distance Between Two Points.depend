@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713613833 source:d:\c++\c-plus-plus\distance between two points\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
