@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713610740 source:d:\c++\c-plus-plus\findgretestnumber\main.cpp
+	<iostream>
+	<math.h>
+	<bits/stdc++.h>
+
