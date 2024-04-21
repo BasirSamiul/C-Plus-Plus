@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713726948 source:d:\c++\c-plus-plus\banknotes\main.cpp
+	<iostream>
+	<array>
+
