@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713725717 source:d:\c++\c-plus-plus\fuel spent\main.cpp
+	<iostream>
+	<iomanip>
+
