@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719037680 source:d:\c++\c-plus-plus\snack\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

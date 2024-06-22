@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719042431 source:d:\c++\c-plus-plus\average_3\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
