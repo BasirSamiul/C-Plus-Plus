@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719123203 source:d:\c++\c-plus-plus\coordinates_of_a_point\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
