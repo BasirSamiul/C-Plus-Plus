@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719215704 source:d:\c++\c-plus-plus\triangle\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
