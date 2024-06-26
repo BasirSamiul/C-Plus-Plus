@@ -65,6 +65,7 @@ int main()
 
         percent = 4;
 
+
         calc = ((salary * percent) / 100 );
 
         salary += calc;
