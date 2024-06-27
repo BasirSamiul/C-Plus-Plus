@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719482588 source:d:\c++\c-plus-plus\animal\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<algorithm>
+	<functional>
+
