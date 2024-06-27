@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719488082 source:d:\c++\c-plus-plus\taxes\main.cpp
+	<iostream>
+	<iomanip>
+
