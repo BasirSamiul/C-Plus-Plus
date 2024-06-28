@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719590455 source:d:\c++\c-plus-plus\event time\main.cpp
+	<iostream>
+	<string>
+
