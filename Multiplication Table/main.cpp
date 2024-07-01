@@ -6,6 +6,13 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    int num;
+
+    cin >> num;
+
+    for(int i = 1; i <= 10; i++){
+        cout << i << " x " << num << " = " << i * num << endl;
+    }
+
     return 0;
 }
