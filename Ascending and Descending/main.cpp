@@ -11,19 +11,16 @@ int main()
         cin >> x >> y;
 
         while( x  || y ){
-
-        if(x > y){
+                if(x > y){
                     cout << "Decrescente" << endl;
                 }
-
-        if(y > x){
+                if(y > x){
                     cout << "Crescente"  << endl;
                 }
                 if(x == y){
-                break;
-            }
+                    break;
+                }
             cin >> x >> y;
-
 
 }
 
