@@ -28,7 +28,7 @@ int main()
         }
         else if(y > x){
 
-            for (int j = x; j < y; j++){
+            for (int j = x; j <= y; j++){
                 if(j != x){
                     if(j % 2 != 0){
                         sum += j;
