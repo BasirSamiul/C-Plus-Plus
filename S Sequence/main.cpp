@@ -1,12 +1,22 @@
-// Uri Online Judge porblem 1155
+//URI Online Judge Problem 1155
 
-#include <stdio.h>
+#include <iostream>
+#include <iomanip>
 
-int main(){
-    float soma = 0;
-    for(int i = 1; i <= 100; i++){
-            soma += 1/(float)i;
+using namespace std;
+
+int main()
+{
+    double s = 1, result = 0, sum = 0;
+
+    cout << fixed;
+
+    for(double i = 1; i <= 100; i++){
+        result  = s / i;
+        sum += result;
+
     }
-    printf("%.2f\n",soma);
+    cout << setprecision(2) << sum << endl;
+
     return 0;
 }
