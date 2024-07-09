@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720541290 source:d:\all coding file\c++\c-plus-plus\ages\main.cpp
+	<iostream>
+	<iomanip>
+
