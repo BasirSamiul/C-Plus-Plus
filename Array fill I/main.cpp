@@ -1,4 +1,4 @@
-//URI Online Judge 1172
+//URI Online Judge 1173
 
 #include <iostream>
 
@@ -9,16 +9,24 @@ int main()
 
     int arr[10];
 
-
     int num;
+
+    cin >> num;
+
+    //arr[0] = num;
+
+    //int temp = arr[0];
 
     for (int i = 0; i < 10; i++){
 
-        cin >> num;
-
         arr[i] = num;
 
+        cout << "N" << "[" << i << "] = " << arr[i] << endl;
+
+        num *= 2;
+
     }
+    /*
 
     for (int i = 0; i < 10; i++){
 
@@ -28,9 +36,10 @@ int main()
 
         }
 
-        cout << "X" << "[" << i << "] = " << arr[i] << endl;
+
 
     }
+    */
 
     return 0;
 }
