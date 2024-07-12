@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    int testCase, num, sum = 0, i = 1;
+    int testCase, num, sum, i = 1;
 
     cin >> testCase;
 
@@ -18,7 +18,7 @@ int main()
 
             if (num >= 1 && num <= 100000000){
 
-               // sum = 0;
+                sum = 0;
 
                 for (int j = 1; j < num; j++){
 
