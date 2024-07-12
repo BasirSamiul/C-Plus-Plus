@@ -14,7 +14,7 @@ int main()
 
     double num;
 
-    for (int i = 0; i < 10; i++){
+    for (int i = 0; i < 100; i++){
 
         cin >> num;
 
@@ -22,7 +22,7 @@ int main()
 
     }
 
-    for (int i = 0; i < 10; i++){
+    for (int i = 0; i < 100; i++){
 
         if(arr[i] <= 10){
 
