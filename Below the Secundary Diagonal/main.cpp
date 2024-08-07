@@ -26,7 +26,7 @@ int main()
 
                 M[i][j] = num;
 
-                if(i < 11 - j){
+                if(i > 11 - j){
 
                      sum += M[i][j];
                 }
@@ -48,7 +48,7 @@ int main()
 
                 M[i][j] = num;
 
-                if(i < 11 - j){
+                if(i > 11 - j){
 
                      counter++;
 
