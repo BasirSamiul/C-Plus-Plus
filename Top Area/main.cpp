@@ -24,4 +24,5 @@ int main(){
     else
          printf("%.1f\n", soma/30.0);
     return 0;
+
 }
