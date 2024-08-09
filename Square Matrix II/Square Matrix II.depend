@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723211114 source:d:\all coding file\c++\c-plus-plus\square matrix ii\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
